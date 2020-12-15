@@ -1,4 +1,4 @@
-# EasyNotes Application
+# Notes Application
 
 Build a Restful CRUD API for a simple Note-Taking application using Node.js, Express and MongoDB.
 
@@ -16,7 +16,7 @@ npm install
 node server.js
 ```
 
-3. Route Paths / API Paths:
+3. Routes / API Paths:
 
 ```bash
 1. Create a note
